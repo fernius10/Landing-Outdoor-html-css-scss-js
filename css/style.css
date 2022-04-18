@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import 'nullstyle.scss';
+@import 'nullstyle';
 .menu__button-cart, .menu__button-buy {
   background: #575445;
   border-radius: 6px;
